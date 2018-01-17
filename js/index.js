@@ -1,17 +1,18 @@
-var names = [ 'Terry',
-            'David',
-            'Michael',
-            'Kelly',
-            'Cooper',
-            'Sally',
-            'Tom',
-            'Ivan',
-            'Lucy',
-            'John',
-            'Kathy',
-            'Young',
-            'Ray',
-            'Shengkai'];
+var names = [ 'Kaitlyn',
+            'Emily',
+            'Xiujie',
+            'Celine',
+            'Julia',
+            'Ruowen',
+            'Catalina',
+            'Yasmin',
+            'Eva',
+            'Seth',
+            'Katartouch',
+            'Ha',
+            'Yi-Chieh',
+            'Diana',
+            'Yujing'];
 
 var section1 = document.getElementById('section-1');
 
